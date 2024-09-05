@@ -8,11 +8,11 @@ Video commenting and liking
 Video categorization and tagging
 Search and recommendation system
 Getting Started
-Clone the repository: git clone https://github.com/your-username/mtube.git
+Clone the repository: git clone https://github.com/Mojimoney/MTUBE.git
 Install dependencies: npm install
 Start the server: npm start
 Usage
-Open MTUBE in your web browser: http://localhost:3000
+Open MTUBE in your web browser: https://mojimoney.github.io/YoutubeClone/MTUBE.html
 Create an account or log in to start exploring
 
 
